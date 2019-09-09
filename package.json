@@ -1,0 +1,25 @@
+{
+  "name": "node-service-template",
+  "version": "1.0.0",
+  "description": "Template for generate services in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueSCar/node-service-template.git"
+  },
+  "author": "BlueSCar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlueSCar/node-service-template/issues"
+  },
+  "homepage": "https://github.com/BlueSCar/node-service-template#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "bluebird": "^3.5.5",
+    "dotenv": "^8.0.0",
+    "pg-promise": "^8.7.2"
+  }
+}
