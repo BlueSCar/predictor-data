@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/BlueSCar/node-service-template#readme",
   "dependencies": {
-    "amqplib": "^0.5.3",
+    "amqplib": "^0.10.3",
     "bluebird": "^3.5.5",
     "dotenv": "^8.0.0",
     "pg-promise": "^8.7.2"
