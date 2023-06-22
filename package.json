@@ -20,6 +20,6 @@
     "amqplib": "^0.5.3",
     "bluebird": "^3.5.5",
     "dotenv": "^8.0.0",
-    "pg-promise": "^8.7.2"
+    "pg-promise": "^11.5.0"
   }
 }
